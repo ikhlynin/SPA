@@ -1,2 +1,2 @@
-# https://igorfnkl.github.io/SPA/SPA
+# https://igorfnkl.github.io/SPA
 
